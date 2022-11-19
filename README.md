@@ -25,5 +25,3 @@ Fulfilling clients need:
 7.	Working hard for the behalf of the company
 I am a graduate in Software Engineering. So, I’ve gained all the basic knowledge from my study and I knew many works related to web 
 
-
---->
